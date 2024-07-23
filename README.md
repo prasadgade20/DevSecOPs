@@ -28,6 +28,16 @@
 
 ![image](https://github.com/user-attachments/assets/76f11515-2f57-448f-b80a-2c00f4246d61)
 
+# Code Analysis Report (Trivy and SonarQube)
+![image](https://github.com/user-attachments/assets/1e5c2d8e-f650-4faf-a15f-5cf8f74ef032)
+
+![image](https://github.com/user-attachments/assets/4b3758e3-e556-4d51-a902-d9239a9823fa)
+
+![image](https://github.com/user-attachments/assets/bdfb689d-4c40-41ee-9612-68e0829eab69)
+
+
+
+
 # Jenkins ( Server: http://65.2.69.218:8080)
 
 ![image](https://github.com/user-attachments/assets/1615023f-5a59-4727-8ff1-bfa53a42139e)
