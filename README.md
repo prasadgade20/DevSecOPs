@@ -32,6 +32,10 @@
 
 ![image](https://github.com/user-attachments/assets/1615023f-5a59-4727-8ff1-bfa53a42139e)
 
+# Trivy installed on Jenkins server to perform dependency analysis
+![image](https://github.com/user-attachments/assets/ad43026a-0484-4efd-ad73-588f698425ad)
+
+
 
 
 
