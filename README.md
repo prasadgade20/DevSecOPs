@@ -20,11 +20,20 @@
 
 ![image](https://github.com/user-attachments/assets/194d4644-73cf-4241-b25d-6a2b459485ff)
 
-# Nexus Respositoy (Server : http://3.111.246.133:8081) 
+# Nexus Respositoy ( Server : http://3.111.246.133:8081) 
 
 ![image](https://github.com/user-attachments/assets/09be167a-9df6-4e02-84b8-19d625926ef8)
 
 # SonarQube ( Server: http://13.127.213.80:9000)
+
+![image](https://github.com/user-attachments/assets/76f11515-2f57-448f-b80a-2c00f4246d61)
+
+# Jenkins ( Server: http://65.2.69.218:8080)
+
+![image](https://github.com/user-attachments/assets/1615023f-5a59-4727-8ff1-bfa53a42139e)
+
+
+
 
 
 
